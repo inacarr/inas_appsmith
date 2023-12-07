@@ -1,35 +1,47 @@
 {
   "unpublishedPage": {
-    "name": "Student",
-    "slug": "student",
+    "name": "All Tasks",
+    "slug": "all-tasks",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 510,
+          "bottomRow": 480,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 71,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 730,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "All Tasks_Api1",
+              "name": "Api1",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "employeeId.text"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Student",
+        "id": "All Tasks",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -40,5 +52,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6571644fc705506d4658c67b_6571644fc705506d4658c67d"
+  "gitSyncId": "65717c8afe194669cf56278d_6571894c0915fa77d3fee66d"
 }

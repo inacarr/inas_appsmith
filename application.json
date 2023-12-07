@@ -5,10 +5,6 @@
       "isDefault": false
     },
     {
-      "id": "Professor",
-      "isDefault": false
-    },
-    {
       "id": "Home Page",
       "isDefault": true
     },
@@ -17,11 +13,31 @@
       "isDefault": false
     },
     {
-      "id": "Add Study Break",
+      "id": "Delete Homework Assignment",
       "isDefault": false
     },
     {
-      "id": "Delete Homework Assignment",
+      "id": "Professor",
+      "isDefault": false
+    },
+    {
+      "id": "Employee",
+      "isDefault": false
+    },
+    {
+      "id": "All Employees",
+      "isDefault": false
+    },
+    {
+      "id": "All Tasks",
+      "isDefault": false
+    },
+    {
+      "id": "Add Task",
+      "isDefault": false
+    },
+    {
+      "id": "Add Study Break",
       "isDefault": false
     }
   ],
@@ -36,10 +52,10 @@
   "color": "#C7F3E3",
   "icon": "bird",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],

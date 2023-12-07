@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 430,
+          "bottomRow": 550,
           "containerStyle": "none",
           "snapRows": 71,
           "parentRowSpace": 1,
@@ -33,10 +33,7 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "startTime.text",
-                "homeworkId.text",
-                "breakId.text",
-                "endTime.text"
+                "new_study_break.formData"
               ],
               "timeoutInMillisecond": 10000
             }
@@ -55,5 +52,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6571644fc705506d4658c67b_6571757ffe194669cf56277c"
+  "gitSyncId": "65717c8afe194669cf56278d_657218290915fa77d3fee68e"
 }
