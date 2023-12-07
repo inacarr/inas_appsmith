@@ -27,7 +27,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Employee View",
+    "text": "Manager View",
     "key": "mdu2km0yoj",
     "isDeprecated": false,
     "rightColumn": 21,

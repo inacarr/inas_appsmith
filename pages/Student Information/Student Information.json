@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "All Employees",
-    "slug": "all-employees",
+    "name": "Student Information",
+    "slug": "student-information",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 680,
+          "bottomRow": 380,
           "containerStyle": "none",
           "snapRows": 71,
           "parentRowSpace": 1,
@@ -25,21 +25,10 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "All Employees_Api1",
-              "name": "Api1",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "All Employees",
+        "id": "Student Information",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -50,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65717c8afe194669cf56278d_657186450915fa77d3fee668"
+  "gitSyncId": "6571644fc705506d4658c67b_6571716dfe194669cf562775"
 }

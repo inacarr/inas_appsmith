@@ -25,7 +25,7 @@
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "View all students",
+    "text": "View student information",
     "isDisabled": false,
     "key": "w7np8olb6z",
     "isDeprecated": false,
