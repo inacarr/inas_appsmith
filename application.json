@@ -13,15 +13,11 @@
       "isDefault": false
     },
     {
-      "id": "Delete Homework Assignment",
-      "isDefault": false
-    },
-    {
       "id": "Professor",
       "isDefault": false
     },
     {
-      "id": "Employee",
+      "id": "Manager",
       "isDefault": false
     },
     {
@@ -38,6 +34,14 @@
     },
     {
       "id": "Add Study Break",
+      "isDefault": false
+    },
+    {
+      "id": "Add Course",
+      "isDefault": false
+    },
+    {
+      "id": "Group Member Information",
       "isDefault": false
     }
   ],

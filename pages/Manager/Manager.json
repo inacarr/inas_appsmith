@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Employee",
-    "slug": "employee",
+    "name": "Manager",
+    "slug": "manager",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Employee",
+        "id": "Manager",
         "deleted": false,
         "policies": [],
         "userPermissions": []

@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Delete Homework Assignment",
-    "slug": "delete-homework-assignment",
+    "name": "Group Member Information",
+    "slug": "group-member-information",
     "layouts": [
       {
         "viewMode": false,
@@ -25,10 +25,23 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Group Member Information_Api1",
+              "name": "Api1",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "projectId.text"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Delete Homework Assignment",
+        "id": "Group Member Information",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +52,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6571644fc705506d4658c67b_657178fdfe194669cf562781"
+  "gitSyncId": "65717c8afe194669cf56278d_65724b4d1aca102dc5fb4947"
 }
