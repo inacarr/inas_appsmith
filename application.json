@@ -13,10 +13,6 @@
       "isDefault": false
     },
     {
-      "id": "Add Study Break",
-      "isDefault": false
-    },
-    {
       "id": "Delete Homework Assignment",
       "isDefault": false
     },
@@ -33,11 +29,15 @@
       "isDefault": false
     },
     {
-      "id": "All Meetings",
+      "id": "All Tasks",
       "isDefault": false
     },
     {
       "id": "Add Task",
+      "isDefault": false
+    },
+    {
+      "id": "Add Study Break",
       "isDefault": false
     }
   ],
