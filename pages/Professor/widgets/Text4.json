@@ -30,7 +30,7 @@
     "text": "Professor View",
     "key": "mdu2km0yoj",
     "isDeprecated": false,
-    "rightColumn": 17,
+    "rightColumn": 22,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "m72ukyzvo4",
@@ -52,7 +52,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 11,
+    "originalBottomRow": 14,
     "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }
