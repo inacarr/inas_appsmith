@@ -5,10 +5,6 @@
       "isDefault": false
     },
     {
-      "id": "Professor",
-      "isDefault": false
-    },
-    {
       "id": "Home Page",
       "isDefault": true
     },
@@ -23,6 +19,22 @@
     {
       "id": "Delete Homework Assignment",
       "isDefault": false
+    },
+    {
+      "id": "Professor",
+      "isDefault": false
+    },
+    {
+      "id": "Employee",
+      "isDefault": false
+    },
+    {
+      "id": "All Employees",
+      "isDefault": false
+    },
+    {
+      "id": "All Meetings",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -36,7 +48,7 @@
   "color": "#C7F3E3",
   "icon": "bird",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
     "type": "DESKTOP"

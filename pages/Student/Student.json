@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 630,
+          "bottomRow": 510,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -29,22 +29,13 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Student_Api1",
-              "name": "Api1",
+              "id": "Student_Api4",
+              "name": "Api4",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "StudentId.text"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Student_Api3",
-              "name": "Api3",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "StudentId.text"
+                "StudentId.text",
+                "year.text"
               ],
               "timeoutInMillisecond": 10000
             }

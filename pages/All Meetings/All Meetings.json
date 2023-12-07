@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "All Students",
-    "slug": "all-students",
+    "name": "All Meetings",
+    "slug": "all-meetings",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 750,
+          "bottomRow": 380,
           "containerStyle": "none",
           "snapRows": 71,
           "parentRowSpace": 1,
@@ -25,21 +25,10 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "All Students_Api1",
-              "name": "Api1",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "All Students",
+        "id": "All Meetings",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -50,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6571644fc705506d4658c67b_6571716dfe194669cf562775"
+  "gitSyncId": "65717c8afe194669cf56278d_6571894c0915fa77d3fee66d"
 }

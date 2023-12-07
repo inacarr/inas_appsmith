@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 24,
     "widgetName": "Button4",
-    "onClick": "{{navigateTo('Add Study Break', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('All Students', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
@@ -25,7 +25,7 @@
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "Add a new study break",
+    "text": "View all students",
     "isDisabled": false,
     "key": "w7np8olb6z",
     "isDeprecated": false,
