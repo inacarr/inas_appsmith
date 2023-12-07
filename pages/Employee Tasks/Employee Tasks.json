@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "All Tasks",
-    "slug": "all-tasks",
+    "name": "Employee Tasks",
+    "slug": "employee-tasks",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "All Tasks_Api1",
+              "id": "Employee Tasks_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -41,7 +41,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "All Tasks",
+        "id": "Employee Tasks",
         "deleted": false,
         "policies": [],
         "userPermissions": []
