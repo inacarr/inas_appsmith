@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 29,
     "widgetName": "Button2",
-    "onClick": "{{Api11.run().then(() => {\n  showAlert('Success!', 'success');\n});}}",
+    "onClick": "{{Api3.run().then(() => {\n  showAlert('Success!', 'success');\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",

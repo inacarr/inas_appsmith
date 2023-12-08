@@ -51,7 +51,7 @@
             "isDisabled": false
         },
         "menuItem3": {
-            "onClick": "{{navigateTo('Employee', {}, 'SAME_WINDOW');}}",
+            "onClick": "{{navigateTo('Manager', {}, 'SAME_WINDOW');}}",
             "widgetId": "",
             "index": 2,
             "label": "Manager Page",
@@ -77,11 +77,11 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "mobileTopRow": 20,
-    "originalTopRow": 27,
+    "originalTopRow": 21,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 13,
     "menuItemsSource": "STATIC",
     "menuColor": "{{appsmith.theme.colors.primaryColor}}",
-    "originalBottomRow": 31,
+    "originalBottomRow": 25,
     "placement": "CENTER"
 }

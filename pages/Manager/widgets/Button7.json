@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 19,
     "widgetName": "Button7",
-    "onClick": "{{navigateTo('All Tasks', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Employee Tasks', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
