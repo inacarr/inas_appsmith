@@ -3,10 +3,10 @@
     "borderColor": "#E0DEDE",
     "iconSVG": "/static/media/icon.46adf7030d667f0ad9002aa31f997573.svg",
     "onSubmit": "{{Api1.run().then(() => {\n  showAlert('Success!', 'success');\n});}}",
-    "topRow": 6,
+    "topRow": 0,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
-    "leftColumn": 4,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"},
@@ -122,7 +122,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 55,
+    "originalBottomRow": 49,
     "useSourceData": false,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",
@@ -235,7 +235,7 @@
         "buttonVariant": "PRIMARY"
     },
     "displayName": "JSON Form",
-    "bottomRow": 55,
+    "bottomRow": 52,
     "fieldLimitExceeded": false,
     "parentRowSpace": 10,
     "title": "Create a new study break",
@@ -249,7 +249,7 @@
     "key": "1efd27i2fn",
     "backgroundColor": "#fff",
     "isDeprecated": false,
-    "rightColumn": 29,
+    "rightColumn": 14,
     "widgetId": "nrkpq014ip",
     "minWidth": 450,
     "parentId": "0",
@@ -258,7 +258,7 @@
     "scrollContents": true,
     "responsiveBehavior": "fill",
     "fixedFooter": true,
-    "originalTopRow": 6,
+    "originalTopRow": 0,
     "mobileLeftColumn": 4,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 4
